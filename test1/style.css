@@ -1,0 +1,14 @@
+body {
+    background-color: #90f5f8;
+}
+#myBox {
+    width: 150px;
+    height: 150px;
+    border: 2px #1b1b1b solid;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin: 300px auto;
+}
+.active-bg {
+    background-color: #04155a;
+}
